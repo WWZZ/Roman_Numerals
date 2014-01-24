@@ -46,6 +46,9 @@ int main()
 
 	string test3 = "DCCVII"; //707
 	cout << toInt(first, test3) << endl;
+	
+	string test4 = "XX"; //20
+	cout << toInt(first, test4) << endl;
 
 	cin.get();
 	return 0;
